@@ -1,6 +1,9 @@
-* Colour changer (React + xstate + Webspeech API)
 To run:
 #+begin_src sh
   npm install
   npm start
 #+end_src
+
+Make sure to press the Request temporary access to the demo server here: https://cors-anywhere.herokuapp.com/corsdemo and to have RASA in an active mode by following this link: https://swenglish.herokuapp.com/. 
+
+Acess the app through here: https://rafalcer.github.io/Swenglish/
