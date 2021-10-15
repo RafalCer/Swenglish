@@ -1,3 +1,10 @@
+Swenglish is an app that helps English speakers learn Swedish
+
+The game has 3 modes: Pictures, Definitions, and Wordplay.
+Every mode has multiple categories to choose from. It's a great way to learn the names of animals, colours, and even family relations!
+
+Submitted as final project for the Dialogue Systems course at Göteborgs Universitet.
+
 To run:
 #+begin_src sh
   npm install
@@ -6,4 +13,4 @@ To run:
 
 Make sure to press the Request temporary access to the demo server here: https://cors-anywhere.herokuapp.com/corsdemo and to have RASA in an active mode by following this link: https://swenglish.herokuapp.com/. 
 
-Acess the app through here: https://rafalcer.github.io/Swenglish/
+Access the app through here: https://rafalcer.github.io/Swenglish/
